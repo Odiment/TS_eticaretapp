@@ -12,7 +12,9 @@ import { NgxSpinnerModule } from 'ngx-spinner';
       color="#fff"
       type="ball-spin-fade"
       [fullScreen]="true"
-      ><p style="color: white">Loading... Yükleniyor...</p></ngx-spinner
+      >
+      <p style="color: white">Loading... Yükleniyor...</p>
+      </ngx-spinner
     > `,
   standalone: true,
 })
